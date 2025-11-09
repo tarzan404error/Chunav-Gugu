@@ -16,6 +16,8 @@ const casteMap = {
   "Pandit": "Brahmin",
   "Prajapati": "Brahmin",
   "Chakraborty": "Brahmin",
+  "Prakash": "Brahmin",
+  "Shrivastava": "Brahmin",
 
   // -------------------------
   // YADAV / AHIR
@@ -25,6 +27,7 @@ const casteMap = {
   "Ray": "Yadav",
   "Rai": "Yadav",
   "Roy": "Yadav",
+  "Paswan": "Yadav",
 
   // -------------------------
   // KURMI / KUSHWAHA
@@ -33,6 +36,8 @@ const casteMap = {
   "Patel": "Kurmi",
   "Kushwaha": "Kurmi",
   "Parsad": "Kurmi",
+  "Prasad": "Kurmi",
+  "Maurya": "Kurmi",
 
   // -------------------------
   // VAISHYA / BANIYA / MARWARI / JAIN
@@ -45,7 +50,7 @@ const casteMap = {
   "Jain": "Vaishya",
   "Khandelwal": "Vaishya",
   "Maheshwari": "Vaishya",
-  "Paswan": "Vaishya",
+  // "Paswan": "Vaishya",
   "Sharma": "Vaishya",
   "Mittal": "Vaishya",
   "Saw": "Vaishya",
@@ -62,6 +67,9 @@ const casteMap = {
   "Rawat": "Rajput",
   "Saraf": "Rajput",
   "Sarraf": "Rajput",
+  "Keshri": "Rajput",
+  "Rajput": "Rajput",
+
 
   // -------------------------
   // SCHEDULED CASTE / DALIT (Generic surnames, regionally used)
@@ -110,6 +118,7 @@ const casteMap = {
   "Alam": "Muslim",
   "Yazdani": "Muslim",
   "Mansuri": "Muslim",
+  "Bismil": "Muslim",
 
 
   // // -------------------------
